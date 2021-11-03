@@ -1,0 +1,13 @@
+img {
+	background-position: top;
+	display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+
+html {
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/799863269023505261/82F65C80C94C8A783E2F5754E2661B63E11F208C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true");
+    background-repeat: no-repeat ;
+    background-position: top center;
+    background-size: cover;
+}
